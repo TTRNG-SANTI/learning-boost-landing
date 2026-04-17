@@ -25,7 +25,9 @@ const HeroSection = () => {
               1-on-1 tutoring that builds real understanding — not just quick fixes. Better grades, stronger study habits, and lasting confidence.
             </p>
             <a
-              href="#booking"
+              href="https://calendly.com/tutorwithsanti"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-block bg-primary text-primary-foreground font-semibold text-lg px-8 py-4 rounded-lg hover:opacity-90 transition-opacity"
             >
               Book Free Consultation
