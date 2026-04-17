@@ -4,7 +4,9 @@ const Navbar = () => {
       <div className="container max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
         <span className="text-xl font-bold text-foreground tracking-tight">SANTI Tutoring</span>
         <a
-          href="#booking"
+          href="https://calendly.com/tutorwithsanti"
+          target="_blank"
+          rel="noopener noreferrer"
           className="bg-primary text-primary-foreground font-medium text-sm px-5 py-2.5 rounded-lg hover:opacity-90 transition-opacity"
         >
           Book Free Consultation
