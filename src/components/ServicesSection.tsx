@@ -40,7 +40,7 @@ const ServicesSection = () => {
         </p>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {services.map((service) => (
-            <div key={service.title} className="bg-card rounded-xl p-6 shadow-sm border border-border">
+            <div key={service.title} className="bg-card rounded-xl p-6 shadow-sm border border-border transition-all hover:shadow-lg hover:-translate-y-1 hover:border-primary/50">
               <service.icon className="w-8 h-8 text-primary mb-4" />
               <h3 className="text-lg font-semibold text-foreground mb-2">{service.title}</h3>
               <p className="text-muted-foreground leading-relaxed">{service.description}</p>
