@@ -5,7 +5,7 @@ const plans = [
     name: "Free Consultation",
     price: "Free",
     description: "Let's talk about your child's needs — no commitment.",
-    features: ["30-minute call", "Academic assessment", "Personalized plan outline"],
+    features: ["15-minute call", "Academic assessment", "Personalized plan outline"],
     highlighted: false,
     href: "https://calendly.com/tutorwithsanti",
     cta: "Book free call",

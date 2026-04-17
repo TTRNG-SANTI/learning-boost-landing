@@ -6,7 +6,7 @@ const FinalCTA = () => {
           Ready to See Your Child Succeed?
         </h2>
         <p className="text-primary-foreground/80 text-lg mb-8 max-w-xl mx-auto leading-relaxed">
-          Book a free 30-minute consultation. We'll discuss your child's situation, identify the biggest opportunities for improvement, and outline a plan — no obligation.
+          Book a free 15-minute consultation. We'll discuss your child's situation, identify the biggest opportunities for improvement, and outline a plan — no obligation.
         </p>
         <a
           href="https://calendly.com/tutorwithsanti"
