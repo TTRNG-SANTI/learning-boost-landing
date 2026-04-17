@@ -9,7 +9,7 @@ const FinalCTA = () => {
           Book a free 30-minute consultation. We'll discuss your child's situation, identify the biggest opportunities for improvement, and outline a plan — no obligation.
         </p>
         <a
-          href="https://calendly.com"
+          href="https://calendly.com/tutorwithsanti"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-primary-foreground text-primary font-semibold text-lg px-8 py-4 rounded-lg hover:opacity-90 transition-opacity"
@@ -17,7 +17,7 @@ const FinalCTA = () => {
           Book Free Consultation
         </a>
         <p className="text-primary-foreground/60 text-sm mt-4">
-          Or email directly: <a href="mailto:hello@santitutoring.com" className="underline">hello@santitutoring.com</a>
+          Or email directly: <a href="mailto:tutoring.santiago@gmail.com" className="underline">tutoring.santiago@gmail.com</a>
         </p>
       </div>
     </section>
